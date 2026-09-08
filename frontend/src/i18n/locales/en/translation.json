@@ -1,0 +1,187 @@
+{
+  "app": {
+    "name": "RuchiBook",
+    "tagline": "Cook. Learn. Enjoy."
+  },
+  "nav": {
+    "home": "Home",
+    "pantry": "Pantry",
+    "breakfast": "Breakfast",
+    "lunch": "Lunch",
+    "dinner": "Dinner",
+    "whatCanICook": "What Can I Cook?",
+    "favorites": "Favorites",
+    "search": "Search",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "admin": "Admin Dashboard",
+    "myAccount": "My Account"
+  },
+  "home": {
+    "heroSubtitle": "Discover delicious recipes in English, Telugu and Hindi.",
+    "searchPlaceholder": "Search recipes, e.g. Chicken Curry",
+    "searchButton": "Search",
+    "exploreRecipes": "Explore Recipes",
+    "whatCanICook": "What Can I Cook?",
+    "categoriesTitle": "Browse by Category",
+    "foodTypesTitle": "Browse by Food Type",
+    "popularTitle": "Popular Recipes",
+    "vegetarian": "Vegetarian",
+    "nonVegetarian": "Non-Vegetarian",
+    "other": "Other",
+    "exploreButton": "Explore"
+  },
+  "category": {
+    "pantry": "Pantry",
+    "pantryDesc": "Find recipes using ingredients available at home.",
+    "breakfast": "Breakfast",
+    "breakfastDesc": "Discover breakfast recipes.",
+    "lunch": "Lunch",
+    "lunchDesc": "Discover lunch recipes.",
+    "dinner": "Dinner",
+    "dinnerDesc": "Discover dinner recipes."
+  },
+  "recipeCard": {
+    "viewRecipe": "View Recipe",
+    "mins": "min",
+    "calories": "cal",
+    "protein": "g protein"
+  },
+  "pantryPage": {
+    "title": "Your Pantry",
+    "subtitle": "Select ingredients you commonly have at home.",
+    "searchPlaceholder": "Search ingredients...",
+    "clearAll": "Clear All",
+    "save": "Save Pantry",
+    "saved": "Pantry saved!",
+    "empty": "Your pantry is empty. Add ingredients to discover recipes.",
+    "categories": {
+      "vegetables": "Vegetables",
+      "grains": "Grains",
+      "dairy": "Dairy",
+      "proteins": "Proteins",
+      "spices": "Spices"
+    }
+  },
+  "cook": {
+    "title": "What Can I Cook?",
+    "subtitle": "Select the ingredients you have at home, and we'll find dishes you can prepare.",
+    "searchPlaceholder": "What ingredients do you have?",
+    "yourIngredients": "Your Ingredients",
+    "clearAll": "Clear All",
+    "findRecipes": "Find Recipes",
+    "empty": "Select ingredients you have at home to discover what you can cook.",
+    "noResults": "We couldn't find a suitable recipe with those ingredients. Try adding another ingredient.",
+    "youCanMake": "You Can Make This",
+    "almostThere": "Almost There",
+    "youMightLike": "You Might Like",
+    "match": "Match",
+    "available": "Available",
+    "missing": "Missing",
+    "quickAdd": "Quick add"
+  },
+  "filters": {
+    "title": "Filters",
+    "foodType": "Food Type",
+    "cookingTime": "Cooking Time",
+    "calories": "Calories",
+    "under15": "Under 15 minutes",
+    "15to30": "15–30 minutes",
+    "30to60": "30–60 minutes",
+    "60plus": "60+ minutes",
+    "low": "Low",
+    "medium": "Medium",
+    "high": "High",
+    "apply": "Apply Filters",
+    "clear": "Clear Filters"
+  },
+  "search": {
+    "title": "Search Recipes",
+    "placeholder": "Search by name, ingredient or category",
+    "noResults": "No recipes found. Try another search."
+  },
+  "recipeDetails": {
+    "servings": "Servings",
+    "prepTime": "Preparation Time",
+    "cookTime": "Cooking Time",
+    "totalTime": "Total Time",
+    "ingredients": "Ingredients",
+    "ingredient": "Ingredient",
+    "quantity": "Quantity",
+    "preparationSteps": "Preparation Steps",
+    "nutrition": "Nutrition Information",
+    "nutritionDisclaimer": "Nutritional values are estimates and may vary depending on ingredients, preparation methods, and serving size.",
+    "calories": "Calories",
+    "protein": "Protein",
+    "fat": "Fat",
+    "carbohydrates": "Carbohydrates",
+    "fiber": "Fiber",
+    "benefits": "Benefits",
+    "favorite": "Favorite",
+    "saved": "Saved",
+    "share": "Share",
+    "print": "Print Recipe",
+    "notFound": "Recipe not found.",
+    "loading": "Loading recipe..."
+  },
+  "favoritesPage": {
+    "title": "My Favorites",
+    "empty": "You haven't saved any recipes yet.",
+    "remove": "Remove"
+  },
+  "auth": {
+    "loginTitle": "Login to RuchiBook",
+    "registerTitle": "Create your RuchiBook account",
+    "name": "Name",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "loginButton": "Login",
+    "registerButton": "Register",
+    "noAccount": "Don't have an account?",
+    "haveAccount": "Already have an account?",
+    "signUp": "Sign up",
+    "signIn": "Sign in"
+  },
+  "admin": {
+    "title": "Admin Dashboard",
+    "addRecipe": "Add Recipe",
+    "editRecipe": "Edit Recipe",
+    "deleteConfirm": "Are you sure you want to delete this recipe?",
+    "recipeName": "Recipe Name",
+    "description": "Description",
+    "category": "Category",
+    "foodType": "Food Type",
+    "prepTime": "Preparation Time (minutes)",
+    "cookTime": "Cooking Time (minutes)",
+    "servings": "Servings",
+    "image": "Image URL",
+    "ingredients": "Ingredients",
+    "addIngredient": "Add Ingredient",
+    "ingredientName": "Ingredient Name",
+    "pantryStaple": "Pantry Staple",
+    "preparationSteps": "Preparation Steps",
+    "addStep": "Add Step",
+    "nutrition": "Nutrition",
+    "benefits": "Benefits",
+    "addBenefit": "Add Benefit",
+    "save": "Save Recipe",
+    "cancel": "Cancel"
+  },
+  "loading": {
+    "recipes": "Loading recipes..."
+  },
+  "errors": {
+    "generic": "Something went wrong. Please try again.",
+    "loginFailed": "Invalid email or password.",
+    "registerFailed": "Could not create account. Please check your details."
+  },
+  "common": {
+    "loading": "Loading...",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "close": "Close"
+  }
+}

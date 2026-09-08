@@ -1,0 +1,26 @@
+services:
+  - type: web
+    name: ruchibook-api
+    runtime: node
+    plan: free
+    rootDir: backend
+    buildCommand: npm install && npm run build
+    startCommand: npm start
+    healthCheckPath: /api/health
+    envVars:
+      # You'll be prompted to paste your MongoDB Atlas connection string
+      # when applying this blueprint in the Render dashboard.
+      - key: MONGODB_URI
+        sync: false
+      # Render generates a secure random value for this automatically --
+      # you never have to think about it.
+      - key: JWT_SECRET
+        generateValue: true
+      # Update this to your real frontend URL after deploying it
+      # (Render > this service > Environment > edit FRONTEND_URL).
+      - key: FRONTEND_URL
+        value: http://localhost:5173
+      # Optional: set a custom admin password instead of the "admin123"
+      # default that the app auto-seeds on first boot.
+      - key: ADMIN_PASSWORD
+        sync: false

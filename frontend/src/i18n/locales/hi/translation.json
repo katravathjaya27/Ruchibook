@@ -1,0 +1,187 @@
+{
+  "app": {
+    "name": "रुचिबुक",
+    "tagline": "पकाएं। सीखें। आनंद लें।"
+  },
+  "nav": {
+    "home": "होम",
+    "pantry": "पेंट्री",
+    "breakfast": "नाश्ता",
+    "lunch": "दोपहर का खाना",
+    "dinner": "रात का खाना",
+    "whatCanICook": "मैं क्या बना सकता हूँ?",
+    "favorites": "पसंदीदा",
+    "search": "खोजें",
+    "login": "लॉगिन",
+    "register": "रजिस्टर",
+    "logout": "लॉगआउट",
+    "admin": "एडमिन डैशबोर्ड",
+    "myAccount": "मेरा खाता"
+  },
+  "home": {
+    "heroSubtitle": "अंग्रेज़ी, तेलुगु और हिंदी में स्वादिष्ट व्यंजन खोजें।",
+    "searchPlaceholder": "व्यंजन खोजें, जैसे चिकन करी",
+    "searchButton": "खोजें",
+    "exploreRecipes": "व्यंजन देखें",
+    "whatCanICook": "मैं क्या बना सकता हूँ?",
+    "categoriesTitle": "श्रेणी के अनुसार देखें",
+    "foodTypesTitle": "भोजन प्रकार के अनुसार देखें",
+    "popularTitle": "लोकप्रिय व्यंजन",
+    "vegetarian": "शाकाहारी",
+    "nonVegetarian": "मांसाहारी",
+    "other": "अन्य",
+    "exploreButton": "देखें"
+  },
+  "category": {
+    "pantry": "पेंट्री",
+    "pantryDesc": "घर में उपलब्ध सामग्री से व्यंजन खोजें।",
+    "breakfast": "नाश्ता",
+    "breakfastDesc": "नाश्ते के व्यंजन खोजें।",
+    "lunch": "दोपहर का खाना",
+    "lunchDesc": "दोपहर के खाने के व्यंजन खोजें।",
+    "dinner": "रात का खाना",
+    "dinnerDesc": "रात के खाने के व्यंजन खोजें।"
+  },
+  "recipeCard": {
+    "viewRecipe": "व्यंजन देखें",
+    "mins": "मिनट",
+    "calories": "कैलोरी",
+    "protein": "ग्राम प्रोटीन"
+  },
+  "pantryPage": {
+    "title": "आपकी पेंट्री",
+    "subtitle": "वे सामग्री चुनें जो आमतौर पर आपके घर में होती हैं।",
+    "searchPlaceholder": "सामग्री खोजें...",
+    "clearAll": "सभी हटाएं",
+    "save": "पेंट्री सहेजें",
+    "saved": "पेंट्री सहेजी गई!",
+    "empty": "आपकी पेंट्री खाली है। व्यंजन खोजने के लिए सामग्री जोड़ें।",
+    "categories": {
+      "vegetables": "सब्ज़ियां",
+      "grains": "अनाज",
+      "dairy": "डेयरी",
+      "proteins": "प्रोटीन",
+      "spices": "मसाले"
+    }
+  },
+  "cook": {
+    "title": "मैं क्या बना सकता हूँ?",
+    "subtitle": "अपने घर में मौजूद सामग्री चुनें, और हम आपके लिए बनाए जा सकने वाले व्यंजन खोजेंगे।",
+    "searchPlaceholder": "आपके पास कौन सी सामग्री है?",
+    "yourIngredients": "आपकी सामग्री",
+    "clearAll": "सभी हटाएं",
+    "findRecipes": "व्यंजन खोजें",
+    "empty": "आप क्या बना सकते हैं यह जानने के लिए घर में मौजूद सामग्री चुनें।",
+    "noResults": "उन सामग्रियों से कोई उपयुक्त व्यंजन नहीं मिला। कोई अन्य सामग्री जोड़कर देखें।",
+    "youCanMake": "आप यह बना सकते हैं",
+    "almostThere": "लगभग तैयार",
+    "youMightLike": "आपको यह पसंद आ सकता है",
+    "match": "मिलान",
+    "available": "उपलब्ध",
+    "missing": "कमी",
+    "quickAdd": "त्वरित जोड़ें"
+  },
+  "filters": {
+    "title": "फ़िल्टर",
+    "foodType": "भोजन प्रकार",
+    "cookingTime": "पकाने का समय",
+    "calories": "कैलोरी",
+    "under15": "15 मिनट से कम",
+    "15to30": "15–30 मिनट",
+    "30to60": "30–60 मिनट",
+    "60plus": "60+ मिनट",
+    "low": "कम",
+    "medium": "मध्यम",
+    "high": "अधिक",
+    "apply": "फ़िल्टर लागू करें",
+    "clear": "फ़िल्टर हटाएं"
+  },
+  "search": {
+    "title": "व्यंजन खोजें",
+    "placeholder": "नाम, सामग्री या श्रेणी से खोजें",
+    "noResults": "कोई व्यंजन नहीं मिला। कोई और खोज आज़माएं।"
+  },
+  "recipeDetails": {
+    "servings": "सर्विंग्स",
+    "prepTime": "तैयारी का समय",
+    "cookTime": "पकाने का समय",
+    "totalTime": "कुल समय",
+    "ingredients": "सामग्री",
+    "ingredient": "सामग्री",
+    "quantity": "मात्रा",
+    "preparationSteps": "बनाने की विधि",
+    "nutrition": "पोषण जानकारी",
+    "nutritionDisclaimer": "पोषण मूल्य अनुमानित हैं और सामग्री, बनाने की विधि और सर्विंग आकार के अनुसार भिन्न हो सकते हैं।",
+    "calories": "कैलोरी",
+    "protein": "प्रोटीन",
+    "fat": "वसा",
+    "carbohydrates": "कार्बोहाइड्रेट",
+    "fiber": "फाइबर",
+    "benefits": "लाभ",
+    "favorite": "पसंदीदा",
+    "saved": "सहेजा गया",
+    "share": "साझा करें",
+    "print": "व्यंजन प्रिंट करें",
+    "notFound": "व्यंजन नहीं मिला।",
+    "loading": "व्यंजन लोड हो रहा है..."
+  },
+  "favoritesPage": {
+    "title": "मेरे पसंदीदा",
+    "empty": "आपने अभी तक कोई व्यंजन सहेजा नहीं है।",
+    "remove": "हटाएं"
+  },
+  "auth": {
+    "loginTitle": "रुचिबुक में लॉगिन करें",
+    "registerTitle": "अपना रुचिबुक खाता बनाएं",
+    "name": "नाम",
+    "email": "ईमेल",
+    "password": "पासवर्ड",
+    "confirmPassword": "पासवर्ड की पुष्टि करें",
+    "loginButton": "लॉगिन",
+    "registerButton": "रजिस्टर",
+    "noAccount": "खाता नहीं है?",
+    "haveAccount": "पहले से खाता है?",
+    "signUp": "साइन अप करें",
+    "signIn": "साइन इन करें"
+  },
+  "admin": {
+    "title": "एडमिन डैशबोर्ड",
+    "addRecipe": "व्यंजन जोड़ें",
+    "editRecipe": "व्यंजन संपादित करें",
+    "deleteConfirm": "क्या आप वाकई इस व्यंजन को हटाना चाहते हैं?",
+    "recipeName": "व्यंजन का नाम",
+    "description": "विवरण",
+    "category": "श्रेणी",
+    "foodType": "भोजन प्रकार",
+    "prepTime": "तैयारी का समय (मिनट)",
+    "cookTime": "पकाने का समय (मिनट)",
+    "servings": "सर्विंग्स",
+    "image": "चित्र URL",
+    "ingredients": "सामग्री",
+    "addIngredient": "सामग्री जोड़ें",
+    "ingredientName": "सामग्री का नाम",
+    "pantryStaple": "पेंट्री स्टेपल",
+    "preparationSteps": "बनाने की विधि",
+    "addStep": "चरण जोड़ें",
+    "nutrition": "पोषण",
+    "benefits": "लाभ",
+    "addBenefit": "लाभ जोड़ें",
+    "save": "व्यंजन सहेजें",
+    "cancel": "रद्द करें"
+  },
+  "loading": {
+    "recipes": "व्यंजन लोड हो रहे हैं..."
+  },
+  "errors": {
+    "generic": "कुछ गलत हो गया। कृपया पुनः प्रयास करें।",
+    "loginFailed": "अमान्य ईमेल या पासवर्ड।",
+    "registerFailed": "खाता नहीं बनाया जा सका। कृपया अपनी जानकारी जांचें।"
+  },
+  "common": {
+    "loading": "लोड हो रहा है...",
+    "cancel": "रद्द करें",
+    "delete": "हटाएं",
+    "edit": "संपादित करें",
+    "close": "बंद करें"
+  }
+}
